@@ -47,7 +47,7 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Configuration",
       "pages": [
         "essentials/markdown",
         "essentials/code",
