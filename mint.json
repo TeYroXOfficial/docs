@@ -29,21 +29,14 @@
     {
       "name": "Billing Panel",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Convoy Panel",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "https://panel.fastkvm.eu/"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Introduction",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "introduction"
       ]
     },
     {
